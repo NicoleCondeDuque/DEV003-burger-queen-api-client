@@ -15,7 +15,7 @@
 
 [Click aqui para ver el documento!](https://www.canva.com/design/DAFdS76Gd50/vqcRzFwpRma5uqOMISpskA/view?utm_content=DAFdS76Gd50&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
- ***BQ es un dashboard desarrollado para vista desktop al requerimiento UX:***
+ ***BQ es un dashboard desarrollado para vista desktop segun el requerimiento UX:***
   
   ### Login:
 Podras ingresar al App con las credenciales asignadas por el Administrador cada credencial tiene diferentes permisos.
