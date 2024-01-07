@@ -2,8 +2,8 @@
 
  Es un aplicativo que nace de la necesidad de nuestro cliente de poder gestionar de forma efectiva el servicio dentro de su restaurante de comida rapida, para esto se siguieron las solicitudes de UX|UI donde creamos patrones y desarrollamos de forma eficaz segun la necesidad de cada usuario, logrando asi un App con resposividad para tablet ycomputadora, dandole las cuales perfectas para ser un portal dinamico y muy intuitivo!
 
-  ***Puedes probar el App dandole click a la hamburguesa:***
-  [🍔]( https://dev-003-burger-queen-api-client-dusky.vercel.app/)
+  ***Puedes probar el App dandole click a la hamburguesa:***  -----> 
+  [🍔](https://dev-003-burger-queen-api-client-qya1-a9iry5zhp-nicolecondeduque.vercel.app/)
 
 |**Colaborador**| **Usuario y Clave**            |
 | ------------- | ------------------------------ |
