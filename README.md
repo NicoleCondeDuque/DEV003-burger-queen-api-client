@@ -9,13 +9,14 @@
 | ------------- | ------------------------------ |
 | `Mesero`      | nico@gmail.com **123456**      |
 | `Cocina`      | sofi@gmail.com **123456**      |
+| `Admin`       | anita.borg@systers.xyz  **123456**      |
 
 
   ### Historia de usuarios:
 
 [Click aqui para ver el documento!](https://www.canva.com/design/DAFdS76Gd50/vqcRzFwpRma5uqOMISpskA/view?utm_content=DAFdS76Gd50&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
- ***BQ es un dashboard desarrollado para vista desktop segun el requerimiento UX:***
+ ***BQ es un dashboard desarrollado para vista desktop segun el requerimiento UX (1280 x 800):***
   
   ### Login:
 Podras ingresar al App con las credenciales asignadas por el Administrador cada credencial tiene diferentes permisos.
